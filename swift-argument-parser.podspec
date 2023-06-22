@@ -12,4 +12,5 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '10.0'
   s.source_files = 'Sources/ArgumentParser/**/*'
   s.frameworks = 'Foundation'
+
 end
